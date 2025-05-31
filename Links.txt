@@ -1,0 +1,3 @@
+https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md
+https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md
+https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python
